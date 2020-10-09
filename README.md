@@ -21,6 +21,14 @@
 
 # PRINTS
 
+![NLW2-WEB-00](https://user-images.githubusercontent.com/45288456/95634877-4a532300-0a61-11eb-8b4c-983dc1573c3f.png)
+![NLW2-WEB-01](https://user-images.githubusercontent.com/45288456/95634891-52ab5e00-0a61-11eb-852f-c0c59e376421.png)
+![NLW2-WEB-02](https://user-images.githubusercontent.com/45288456/95634907-563ee500-0a61-11eb-8c81-34686aa04a28.png)
+![WhatsApp Image 2020-10-08 at 23 58 55](https://user-images.githubusercontent.com/45288456/95634979-7a022b00-0a61-11eb-964a-6655701d8960.jpeg)
+![WhatsApp Image 2020-10-09 at 18 58 27](https://user-images.githubusercontent.com/45288456/95634981-7a9ac180-0a61-11eb-9119-e35e5343cf09.jpeg)
+![WhatsApp Image 2020-10-09 at 18 58 27 (1)](https://user-images.githubusercontent.com/45288456/95634985-7b335800-0a61-11eb-90a3-cb564dd96790.jpeg)
+![WhatsApp Image 2020-10-09 at 18 58 27 (2)](https://user-images.githubusercontent.com/45288456/95634987-7b335800-0a61-11eb-95fb-7cad9edf3a51.jpeg)
+
 
 
 
